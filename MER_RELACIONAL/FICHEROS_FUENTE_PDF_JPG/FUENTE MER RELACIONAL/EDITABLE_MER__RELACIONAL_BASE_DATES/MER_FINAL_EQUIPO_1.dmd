@@ -1,0 +1,9 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<OSDM_Design class="oracle.dbtools.crest.model.design.Design" name="MER_FINAL_EQUIPO_1" id="A9B42F93-0B24-ADFF-2ABF-416DEC6A1306" version="3.5">
+<createdBy>MIGUEL</createdBy>
+<createdTime>2017-04-04 13:52:37 UTC</createdTime>
+<generatorID>Generado por el Usuario</generatorID>
+<ownerDesignName>MER_FINAL_EQUIPO_1</ownerDesignName>
+<capitalNames>false</capitalNames>
+<designId>A9B42F93-0B24-ADFF-2ABF-416DEC6A1306</designId>
+</OSDM_Design>
